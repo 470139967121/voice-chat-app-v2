@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "693386631478",
+    "project_id": "vip-9253b",
+    "storage_bucket": "vip-9253b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693386631478:android:f4d6bf506f86f42ef6fb97",
+        "android_client_info": {
+          "package_name": "com.example.voice_chat_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693386631478-f5mu89pabtscn3j1irofg6bol9cn6g7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtngR27-v3evjEWbmXzgcY0O6ifSVZY5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693386631478-f5mu89pabtscn3j1irofg6bol9cn6g7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693386631478:android:b94c3a34c4fbdd86f6fb97",
+        "android_client_info": {
+          "package_name": "com.shyden.shytalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693386631478-60vua1nee8skvlhfjfbm0p85ouurcsag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shyden.shytalk",
+            "certificate_hash": "eb3276ec10c1ed5910a193554f6f9ad7c66e3a73"
+          }
+        },
+        {
+          "client_id": "693386631478-afkg0p6nl2i3gbv3kplbq1jnagd2jp1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shyden.shytalk",
+            "certificate_hash": "4ab46b9504805ae8e70025b13b698fb6aa070876"
+          }
+        },
+        {
+          "client_id": "693386631478-nuuo2kf988m1c24lse2vmt61fhk8tve6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shyden.shytalk",
+            "certificate_hash": "2e7f26e195f5fd3100952b263990917cf6647bcf"
+          }
+        },
+        {
+          "client_id": "693386631478-vffduha3ev19sqclhm97ps0aq0vnrt6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shyden.shytalk",
+            "certificate_hash": "3f19e863ced5b7473e83c0723168d8efaee08a46"
+          }
+        },
+        {
+          "client_id": "693386631478-f5mu89pabtscn3j1irofg6bol9cn6g7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtngR27-v3evjEWbmXzgcY0O6ifSVZY5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693386631478-f5mu89pabtscn3j1irofg6bol9cn6g7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
